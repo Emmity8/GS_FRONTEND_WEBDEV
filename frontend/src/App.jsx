@@ -1,35 +1,32 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState, useEffect } from "react";
+import Navbar from "./components/Navbar";
+import FeedColaborativo from "./components/FeedColaborativo";
+import Conexoes from "./components/Conexoes";
+import CardProfissional from "./components/CardProfissional";
+import ModalPerfil from "./components/ModalPerfil";
+import data from "./data/profissionais.json";
 
-function App() {
-  const [count, setCount] = useState(0)
+export default function App() {
+  const [aba, setAba] = useState("home");
+  const [selecionado, setSelecionado] = useState(null);
+  const [conexoes, setConexoes] = useState([]);
+  const [darkMode, setDarkMode] = useState(false);
+  const [filtroRegiao, setFiltroRegiao] = useState("");
 
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
-}
+  // Aplica o tema escuro no <html>
+  useEffect(() => {
+    document.documentElement.classList.toggle("dark", darkMode);
+  }, [darkMode]);
 
-export default App
+  // Ao clicar em conectar, adiciona e vai pra aba conexões
+  const handleConectar = (profissional) => {
+    if (!conexoes.some((p) => p.id === profissional.id)) {
+      setConexoes([...conexoes, profissional]);
+      setAba("conexoes"); // muda para a aba de conexões automaticamente
+    }
+  };
+
+  // Filtra profissionais por região
+  const profissionaisFiltrados = data.filter((prof) =>
+    prof.localizacao?.toLowerCase().includes(filtroRegiao.toLowerCase())
+  );
