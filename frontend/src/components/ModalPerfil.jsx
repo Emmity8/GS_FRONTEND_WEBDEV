@@ -1,4 +1,4 @@
-import { gerarTrilhasAprendizado } from "./";
+import { gerarTrilhasAprendizado } from "../utils/Requalifica";
 
 export default function ModalPerfil({ profissional, onClose }) {
   const trilhas = gerarTrilhasAprendizado(profissional);
