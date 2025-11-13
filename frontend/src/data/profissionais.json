@@ -437,10 +437,10 @@
     "localizacao": "Recife/PE",
     "area": "Design",
     "habilidadesTecnicas": [
-      "Figma",
-      "Adobe XD",
-      "HTML",
-      "CSS"
+    "UX Research", 
+    "UI Design", 
+    "Prototipagem", 
+    "Design Thinking"
     ],
     "softSkills": [
       "Comunicação",
@@ -532,10 +532,10 @@
     "localizacao": "Brasília/DF",
     "area": "Marketing",
     "habilidadesTecnicas": [
-      "SEO",
-      "Redes Sociais",
-      "Google Ads",
-      "Copywriting"
+      "Data Analytics", 
+      "SEO", 
+      "Copywriting", 
+      "Growth Hacking"
     ],
     "softSkills": [
       "Organização",
@@ -688,10 +688,9 @@
     "localizacao": "Porto Alegre/RS",
     "area": "Educação",
     "habilidadesTecnicas": [
-      "Didática",
-      "E-learning",
-      "Gamificação",
-      "Planejamento"
+    "Metodologias Ativas", 
+    "Gamificação", 
+    "IA na Educação"
     ],
     "softSkills": [
       "Organização",
