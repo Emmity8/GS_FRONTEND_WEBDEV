@@ -3,7 +3,7 @@
     "id": 1,
     "nome": "Profissional 1",
     "foto": "https://i.pravatar.cc/150?img=1",
-    "cargo": "Design Specialist",
+    "cargo": "Design",
     "resumo": "Profissional dedicado à área de Design, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Design",
@@ -17,36 +17,14 @@
       "Resiliência",
       "Empatia"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 1",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Design."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Design Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 1 - Design",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Design."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Design"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
       }
     ],
     "areaInteresses": [
@@ -58,7 +36,7 @@
     "id": 2,
     "nome": "Profissional 2",
     "foto": "https://i.pravatar.cc/150?img=2",
-    "cargo": "Educação Specialist",
+    "cargo": "Educação",
     "resumo": "Profissional dedicado à área de Educação, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Curitiba/PR",
     "area": "Educação",
@@ -72,36 +50,10 @@
       "Liderança",
       "Criatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 2",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Educação."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Educação Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 2 - Educação",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Educação."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Educação"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -113,7 +65,7 @@
     "id": 3,
     "nome": "Profissional 3",
     "foto": "https://i.pravatar.cc/150?img=3",
-    "cargo": "Saúde Specialist",
+    "cargo": "Saúde",
     "resumo": "Profissional dedicado à área de Saúde, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Porto Alegre/RS",
     "area": "Saúde",
@@ -127,36 +79,10 @@
       "Organização",
       "Proatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 3",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Saúde."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Saúde Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 3 - Saúde",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Saúde."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Saúde"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -168,7 +94,7 @@
     "id": 4,
     "nome": "Profissional 4",
     "foto": "https://i.pravatar.cc/150?img=4",
-    "cargo": "Marketing Specialist",
+    "cargo": "Marketing",
     "resumo": "Profissional dedicado à área de Marketing, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Marketing",
@@ -182,36 +108,10 @@
       "Pensamento Crítico",
       "Inovação"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 4",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Marketing."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Marketing Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 4 - Marketing",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Marketing."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Marketing"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Italiano",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -223,7 +123,7 @@
     "id": 5,
     "nome": "Profissional 5",
     "foto": "https://i.pravatar.cc/150?img=5",
-    "cargo": "Administração Specialist",
+    "cargo": "Administração",
     "resumo": "Profissional dedicado à área de Administração, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Recife/PE",
     "area": "Administração",
@@ -236,36 +136,14 @@
       "Comunicação",
       "Trabalho em equipe"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 5",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Administração."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Administração Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 5 - Administração",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Administração."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Administração"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Japonês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -277,7 +155,7 @@
     "id": 6,
     "nome": "Profissional 6",
     "foto": "https://i.pravatar.cc/150?img=6",
-    "cargo": "Sustentabilidade Specialist",
+    "cargo": "Sustentabilidade",
     "resumo": "Profissional dedicado à área de Sustentabilidade, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Salvador/BA",
     "area": "Sustentabilidade",
@@ -291,36 +169,14 @@
       "Resiliência",
       "Empatia"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 6",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Sustentabilidade."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Sustentabilidade Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 6 - Sustentabilidade",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Sustentabilidade."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Sustentabilidade"
-    ],
     "idiomas": [
       {
         "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Japonês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -332,7 +188,7 @@
     "id": 7,
     "nome": "Profissional 7",
     "foto": "https://i.pravatar.cc/150?img=7",
-    "cargo": "Tecnologia Specialist",
+    "cargo": "Tecnologia",
     "resumo": "Profissional dedicado à área de Tecnologia, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Fortaleza/CE",
     "area": "Tecnologia",
@@ -346,36 +202,10 @@
       "Liderança",
       "Criatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 7",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Tecnologia."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Tecnologia Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 7 - Tecnologia",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Tecnologia."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Tecnologia"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Alemão",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -387,7 +217,7 @@
     "id": 8,
     "nome": "Profissional 8",
     "foto": "https://i.pravatar.cc/150?img=8",
-    "cargo": "Design Specialist",
+    "cargo": "Design",
     "resumo": "Profissional dedicado à área de Design, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Brasília/DF",
     "area": "Design",
@@ -401,36 +231,10 @@
       "Organização",
       "Proatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 8",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Design."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Design Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 8 - Design",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Design."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Design"
-    ],
     "idiomas": [
       {
         "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -442,7 +246,7 @@
     "id": 9,
     "nome": "Profissional 9",
     "foto": "https://i.pravatar.cc/150?img=9",
-    "cargo": "Educação Specialist",
+    "cargo": "Educação",
     "resumo": "Profissional dedicado à área de Educação, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Campinas/SP",
     "area": "Educação",
@@ -456,36 +260,10 @@
       "Pensamento Crítico",
       "Inovação"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 9",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Educação."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Educação Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 9 - Educação",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Educação."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Educação"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Alemão",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -497,7 +275,7 @@
     "id": 10,
     "nome": "Profissional 10",
     "foto": "https://i.pravatar.cc/150?img=10",
-    "cargo": "Saúde Specialist",
+    "cargo": "Saúde",
     "resumo": "Profissional dedicado à área de Saúde, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "São Paulo/SP",
     "area": "Saúde",
@@ -511,33 +289,11 @@
       "Comunicação",
       "Trabalho em equipe"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 10",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Saúde."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Saúde Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 10 - Saúde",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Saúde."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Saúde"
-    ],
     "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      },
       {
         "idioma": "Inglês",
         "nivel": "Intermediário"
@@ -552,7 +308,7 @@
     "id": 11,
     "nome": "Profissional 11",
     "foto": "https://i.pravatar.cc/150?img=11",
-    "cargo": "Marketing Specialist",
+    "cargo": "Marketing",
     "resumo": "Profissional dedicado à área de Marketing, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Marketing",
@@ -566,35 +322,13 @@
       "Resiliência",
       "Empatia"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 11",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Marketing."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Marketing Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 11 - Marketing",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Marketing."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Marketing"
-    ],
     "idiomas": [
       {
         "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
         "nivel": "Intermediário"
       }
     ],
@@ -607,7 +341,7 @@
     "id": 12,
     "nome": "Profissional 12",
     "foto": "https://i.pravatar.cc/150?img=12",
-    "cargo": "Administração Specialist",
+    "cargo": "Administração",
     "resumo": "Profissional dedicado à área de Administração, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Curitiba/PR",
     "area": "Administração",
@@ -620,36 +354,10 @@
       "Liderança",
       "Criatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 12",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Administração."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Administração Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 12 - Administração",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Administração."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Administração"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Italiano",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -661,7 +369,7 @@
     "id": 13,
     "nome": "Profissional 13",
     "foto": "https://i.pravatar.cc/150?img=13",
-    "cargo": "Sustentabilidade Specialist",
+    "cargo": "Sustentabilidade",
     "resumo": "Profissional dedicado à área de Sustentabilidade, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Porto Alegre/RS",
     "area": "Sustentabilidade",
@@ -675,35 +383,13 @@
       "Organização",
       "Proatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 13",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Sustentabilidade."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Sustentabilidade Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 13 - Sustentabilidade",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Sustentabilidade."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Sustentabilidade"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Japonês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
         "nivel": "Intermediário"
       }
     ],
@@ -716,7 +402,7 @@
     "id": 14,
     "nome": "Profissional 14",
     "foto": "https://i.pravatar.cc/150?img=14",
-    "cargo": "Tecnologia Specialist",
+    "cargo": "Tecnologia",
     "resumo": "Profissional dedicado à área de Tecnologia, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Tecnologia",
@@ -730,35 +416,9 @@
       "Pensamento Crítico",
       "Inovação"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 14",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Tecnologia."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Tecnologia Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 14 - Tecnologia",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Tecnologia."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Tecnologia"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Alemão",
         "nivel": "Intermediário"
       }
     ],
@@ -771,7 +431,7 @@
     "id": 15,
     "nome": "Profissional 15",
     "foto": "https://i.pravatar.cc/150?img=15",
-    "cargo": "Design Specialist",
+    "cargo": "Design",
     "resumo": "Profissional dedicado à área de Design, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Recife/PE",
     "area": "Design",
@@ -785,36 +445,14 @@
       "Comunicação",
       "Trabalho em equipe"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 15",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Design."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Design Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 15 - Design",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Design."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Design"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -826,7 +464,7 @@
     "id": 16,
     "nome": "Profissional 16",
     "foto": "https://i.pravatar.cc/150?img=16",
-    "cargo": "Educação Specialist",
+    "cargo": "Educação",
     "resumo": "Profissional dedicado à área de Educação, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Salvador/BA",
     "area": "Educação",
@@ -840,36 +478,10 @@
       "Resiliência",
       "Empatia"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 16",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Educação."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Educação Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 16 - Educação",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Educação."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Educação"
-    ],
     "idiomas": [
       {
         "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -881,7 +493,7 @@
     "id": 17,
     "nome": "Profissional 17",
     "foto": "https://i.pravatar.cc/150?img=17",
-    "cargo": "Saúde Specialist",
+    "cargo": "Saúde",
     "resumo": "Profissional dedicado à área de Saúde, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Fortaleza/CE",
     "area": "Saúde",
@@ -895,36 +507,14 @@
       "Liderança",
       "Criatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 17",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Saúde."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Saúde Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 17 - Saúde",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Saúde."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Saúde"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Espanhol",
         "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Japonês",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -936,7 +526,7 @@
     "id": 18,
     "nome": "Profissional 18",
     "foto": "https://i.pravatar.cc/150?img=18",
-    "cargo": "Marketing Specialist",
+    "cargo": "Marketing",
     "resumo": "Profissional dedicado à área de Marketing, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Brasília/DF",
     "area": "Marketing",
@@ -950,35 +540,13 @@
       "Organização",
       "Proatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 18",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Marketing."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Marketing Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 18 - Marketing",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Marketing."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Marketing"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Japonês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
         "nivel": "Intermediário"
       }
     ],
@@ -991,7 +559,7 @@
     "id": 19,
     "nome": "Profissional 19",
     "foto": "https://i.pravatar.cc/150?img=19",
-    "cargo": "Administração Specialist",
+    "cargo": "Administração",
     "resumo": "Profissional dedicado à área de Administração, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Campinas/SP",
     "area": "Administração",
@@ -1004,36 +572,10 @@
       "Pensamento Crítico",
       "Inovação"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 19",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Administração."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Administração Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 19 - Administração",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Administração."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Administração"
-    ],
     "idiomas": [
       {
         "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "nivel": "Básico"
       }
     ],
     "areaInteresses": [
@@ -1045,7 +587,7 @@
     "id": 20,
     "nome": "Profissional 20",
     "foto": "https://i.pravatar.cc/150?img=20",
-    "cargo": "Sustentabilidade Specialist",
+    "cargo": "Sustentabilidade",
     "resumo": "Profissional dedicado à área de Sustentabilidade, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "São Paulo/SP",
     "area": "Sustentabilidade",
@@ -1059,36 +601,14 @@
       "Comunicação",
       "Trabalho em equipe"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 20",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Sustentabilidade."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Sustentabilidade Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 20 - Sustentabilidade",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Sustentabilidade."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Sustentabilidade"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Japonês",
         "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -1100,7 +620,7 @@
     "id": 21,
     "nome": "Profissional 21",
     "foto": "https://i.pravatar.cc/150?img=21",
-    "cargo": "Tecnologia Specialist",
+    "cargo": "Tecnologia",
     "resumo": "Profissional dedicado à área de Tecnologia, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Tecnologia",
@@ -1114,36 +634,14 @@
       "Resiliência",
       "Empatia"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 21",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Tecnologia."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Tecnologia Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 21 - Tecnologia",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Tecnologia."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Tecnologia"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -1155,7 +653,7 @@
     "id": 22,
     "nome": "Profissional 22",
     "foto": "https://i.pravatar.cc/150?img=22",
-    "cargo": "Design Specialist",
+    "cargo": "Design",
     "resumo": "Profissional dedicado à área de Design, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Curitiba/PR",
     "area": "Design",
@@ -1169,36 +667,10 @@
       "Liderança",
       "Criatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 22",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Design."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Design Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 22 - Design",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Design."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Design"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Italiano",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -1210,7 +682,7 @@
     "id": 23,
     "nome": "Profissional 23",
     "foto": "https://i.pravatar.cc/150?img=23",
-    "cargo": "Educação Specialist",
+    "cargo": "Educação",
     "resumo": "Profissional dedicado à área de Educação, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Porto Alegre/RS",
     "area": "Educação",
@@ -1224,36 +696,14 @@
       "Organização",
       "Proatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 23",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Educação."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Educação Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 23 - Educação",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Educação."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Educação"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Alemão",
         "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -1265,7 +715,7 @@
     "id": 24,
     "nome": "Profissional 24",
     "foto": "https://i.pravatar.cc/150?img=24",
-    "cargo": "Saúde Specialist",
+    "cargo": "Saúde",
     "resumo": "Profissional dedicado à área de Saúde, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Saúde",
@@ -1279,36 +729,10 @@
       "Pensamento Crítico",
       "Inovação"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 24",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Saúde."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Saúde Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 24 - Saúde",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Saúde."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Saúde"
-    ],
     "idiomas": [
       {
         "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -1320,7 +744,7 @@
     "id": 25,
     "nome": "Profissional 25",
     "foto": "https://i.pravatar.cc/150?img=25",
-    "cargo": "Marketing Specialist",
+    "cargo": "Marketing",
     "resumo": "Profissional dedicado à área de Marketing, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Recife/PE",
     "area": "Marketing",
@@ -1334,36 +758,10 @@
       "Comunicação",
       "Trabalho em equipe"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 25",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Marketing."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Marketing Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 25 - Marketing",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Marketing."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Marketing"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -1375,7 +773,7 @@
     "id": 26,
     "nome": "Profissional 26",
     "foto": "https://i.pravatar.cc/150?img=26",
-    "cargo": "Administração Specialist",
+    "cargo": "Administração",
     "resumo": "Profissional dedicado à área de Administração, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Salvador/BA",
     "area": "Administração",
@@ -1388,36 +786,10 @@
       "Resiliência",
       "Empatia"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 26",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Administração."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Administração Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 26 - Administração",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Administração."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Administração"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Alemão",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -1429,7 +801,7 @@
     "id": 27,
     "nome": "Profissional 27",
     "foto": "https://i.pravatar.cc/150?img=27",
-    "cargo": "Sustentabilidade Specialist",
+    "cargo": "Sustentabilidade",
     "resumo": "Profissional dedicado à área de Sustentabilidade, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Fortaleza/CE",
     "area": "Sustentabilidade",
@@ -1443,36 +815,10 @@
       "Liderança",
       "Criatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 27",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Sustentabilidade."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Sustentabilidade Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 27 - Sustentabilidade",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Sustentabilidade."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Sustentabilidade"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Japonês",
+        "nivel": "Básico"
       }
     ],
     "areaInteresses": [
@@ -1484,7 +830,7 @@
     "id": 28,
     "nome": "Profissional 28",
     "foto": "https://i.pravatar.cc/150?img=28",
-    "cargo": "Tecnologia Specialist",
+    "cargo": "Tecnologia",
     "resumo": "Profissional dedicado à área de Tecnologia, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Brasília/DF",
     "area": "Tecnologia",
@@ -1498,36 +844,10 @@
       "Organização",
       "Proatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 28",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Tecnologia."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Tecnologia Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 28 - Tecnologia",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Tecnologia."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Tecnologia"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Alemão",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -1539,7 +859,7 @@
     "id": 29,
     "nome": "Profissional 29",
     "foto": "https://i.pravatar.cc/150?img=29",
-    "cargo": "Design Specialist",
+    "cargo": "Design",
     "resumo": "Profissional dedicado à área de Design, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Campinas/SP",
     "area": "Design",
@@ -1553,36 +873,10 @@
       "Pensamento Crítico",
       "Inovação"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 29",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Design."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Design Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 29 - Design",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Design."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Design"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Japonês",
+        "nivel": "Básico"
       }
     ],
     "areaInteresses": [
@@ -1594,7 +888,7 @@
     "id": 30,
     "nome": "Profissional 30",
     "foto": "https://i.pravatar.cc/150?img=30",
-    "cargo": "Educação Specialist",
+    "cargo": "Educação",
     "resumo": "Profissional dedicado à área de Educação, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "São Paulo/SP",
     "area": "Educação",
@@ -1608,36 +902,10 @@
       "Comunicação",
       "Trabalho em equipe"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 30",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Educação."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Educação Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 30 - Educação",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Educação."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Educação"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Francês",
+        "nivel": "Básico"
       }
     ],
     "areaInteresses": [
@@ -1649,7 +917,7 @@
     "id": 31,
     "nome": "Profissional 31",
     "foto": "https://i.pravatar.cc/150?img=31",
-    "cargo": "Saúde Specialist",
+    "cargo": "Saúde",
     "resumo": "Profissional dedicado à área de Saúde, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Saúde",
@@ -1663,33 +931,11 @@
       "Resiliência",
       "Empatia"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 31",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Saúde."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Saúde Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 31 - Saúde",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Saúde."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Saúde"
-    ],
     "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      },
       {
         "idioma": "Inglês",
         "nivel": "Intermediário"
@@ -1704,7 +950,7 @@
     "id": 32,
     "nome": "Profissional 32",
     "foto": "https://i.pravatar.cc/150?img=32",
-    "cargo": "Marketing Specialist",
+    "cargo": "Marketing",
     "resumo": "Profissional dedicado à área de Marketing, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Curitiba/PR",
     "area": "Marketing",
@@ -1717,32 +963,6 @@
     "softSkills": [
       "Liderança",
       "Criatividade"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 32",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Marketing."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Marketing Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 32 - Marketing",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Marketing."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Marketing"
     ],
     "idiomas": [
       {
@@ -1759,7 +979,7 @@
     "id": 33,
     "nome": "Profissional 33",
     "foto": "https://i.pravatar.cc/150?img=33",
-    "cargo": "Administração Specialist",
+    "cargo": "Administração",
     "resumo": "Profissional dedicado à área de Administração, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Porto Alegre/RS",
     "area": "Administração",
@@ -1772,36 +992,14 @@
       "Organização",
       "Proatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 33",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Administração."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Administração Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 33 - Administração",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Administração."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Administração"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
       }
     ],
     "areaInteresses": [
@@ -1813,7 +1011,7 @@
     "id": 34,
     "nome": "Profissional 34",
     "foto": "https://i.pravatar.cc/150?img=34",
-    "cargo": "Sustentabilidade Specialist",
+    "cargo": "Sustentabilidade",
     "resumo": "Profissional dedicado à área de Sustentabilidade, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Sustentabilidade",
@@ -1827,35 +1025,13 @@
       "Pensamento Crítico",
       "Inovação"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 34",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Sustentabilidade."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Sustentabilidade Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 34 - Sustentabilidade",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Sustentabilidade."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Sustentabilidade"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
         "nivel": "Intermediário"
       }
     ],
@@ -1868,7 +1044,7 @@
     "id": 35,
     "nome": "Profissional 35",
     "foto": "https://i.pravatar.cc/150?img=35",
-    "cargo": "Tecnologia Specialist",
+    "cargo": "Tecnologia",
     "resumo": "Profissional dedicado à área de Tecnologia, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Recife/PE",
     "area": "Tecnologia",
@@ -1882,35 +1058,13 @@
       "Comunicação",
       "Trabalho em equipe"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 35",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Tecnologia."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Tecnologia Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 35 - Tecnologia",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Tecnologia."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Tecnologia"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Italiano",
         "nivel": "Intermediário"
       }
     ],
@@ -1923,7 +1077,7 @@
     "id": 36,
     "nome": "Profissional 36",
     "foto": "https://i.pravatar.cc/150?img=36",
-    "cargo": "Design Specialist",
+    "cargo": "Design",
     "resumo": "Profissional dedicado à área de Design, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Salvador/BA",
     "area": "Design",
@@ -1937,36 +1091,10 @@
       "Resiliência",
       "Empatia"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 36",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Design."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Design Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 36 - Design",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Design."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Design"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Italiano",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -1978,7 +1106,7 @@
     "id": 37,
     "nome": "Profissional 37",
     "foto": "https://i.pravatar.cc/150?img=37",
-    "cargo": "Educação Specialist",
+    "cargo": "Educação",
     "resumo": "Profissional dedicado à área de Educação, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Fortaleza/CE",
     "area": "Educação",
@@ -1992,36 +1120,14 @@
       "Liderança",
       "Criatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 37",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Educação."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Educação Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 37 - Educação",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Educação."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Educação"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -2033,7 +1139,7 @@
     "id": 38,
     "nome": "Profissional 38",
     "foto": "https://i.pravatar.cc/150?img=38",
-    "cargo": "Saúde Specialist",
+    "cargo": "Saúde",
     "resumo": "Profissional dedicado à área de Saúde, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Brasília/DF",
     "area": "Saúde",
@@ -2047,36 +1153,10 @@
       "Organização",
       "Proatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 38",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Saúde."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Saúde Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 38 - Saúde",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Saúde."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Saúde"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Alemão",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -2088,7 +1168,7 @@
     "id": 39,
     "nome": "Profissional 39",
     "foto": "https://i.pravatar.cc/150?img=39",
-    "cargo": "Marketing Specialist",
+    "cargo": "Marketing",
     "resumo": "Profissional dedicado à área de Marketing, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Campinas/SP",
     "area": "Marketing",
@@ -2102,36 +1182,10 @@
       "Pensamento Crítico",
       "Inovação"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 39",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Marketing."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Marketing Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 39 - Marketing",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Marketing."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Marketing"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Francês",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -2143,7 +1197,7 @@
     "id": 40,
     "nome": "Profissional 40",
     "foto": "https://i.pravatar.cc/150?img=40",
-    "cargo": "Administração Specialist",
+    "cargo": "Administração",
     "resumo": "Profissional dedicado à área de Administração, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "São Paulo/SP",
     "area": "Administração",
@@ -2156,36 +1210,10 @@
       "Comunicação",
       "Trabalho em equipe"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 40",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Administração."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Administração Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 40 - Administração",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Administração."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Administração"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -2197,7 +1225,7 @@
     "id": 41,
     "nome": "Profissional 41",
     "foto": "https://i.pravatar.cc/150?img=41",
-    "cargo": "Sustentabilidade Specialist",
+    "cargo": "Sustentabilidade",
     "resumo": "Profissional dedicado à área de Sustentabilidade, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Sustentabilidade",
@@ -2211,35 +1239,13 @@
       "Resiliência",
       "Empatia"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 41",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Sustentabilidade."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Sustentabilidade Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 41 - Sustentabilidade",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Sustentabilidade."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Sustentabilidade"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
         "nivel": "Intermediário"
       }
     ],
@@ -2252,7 +1258,7 @@
     "id": 42,
     "nome": "Profissional 42",
     "foto": "https://i.pravatar.cc/150?img=42",
-    "cargo": "Tecnologia Specialist",
+    "cargo": "Tecnologia",
     "resumo": "Profissional dedicado à área de Tecnologia, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Curitiba/PR",
     "area": "Tecnologia",
@@ -2266,36 +1272,10 @@
       "Liderança",
       "Criatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 42",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Tecnologia."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Tecnologia Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 42 - Tecnologia",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Tecnologia."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Tecnologia"
-    ],
     "idiomas": [
       {
         "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -2307,7 +1287,7 @@
     "id": 43,
     "nome": "Profissional 43",
     "foto": "https://i.pravatar.cc/150?img=43",
-    "cargo": "Design Specialist",
+    "cargo": "Design",
     "resumo": "Profissional dedicado à área de Design, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Porto Alegre/RS",
     "area": "Design",
@@ -2321,36 +1301,14 @@
       "Organização",
       "Proatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 43",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Design."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Design Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 43 - Design",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Design."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Design"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -2362,7 +1320,7 @@
     "id": 44,
     "nome": "Profissional 44",
     "foto": "https://i.pravatar.cc/150?img=44",
-    "cargo": "Educação Specialist",
+    "cargo": "Educação",
     "resumo": "Profissional dedicado à área de Educação, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Educação",
@@ -2376,36 +1334,14 @@
       "Pensamento Crítico",
       "Inovação"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 44",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Educação."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Educação Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 44 - Educação",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Educação."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Educação"
-    ],
     "idiomas": [
       {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      },
+      {
         "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -2417,7 +1353,7 @@
     "id": 45,
     "nome": "Profissional 45",
     "foto": "https://i.pravatar.cc/150?img=45",
-    "cargo": "Saúde Specialist",
+    "cargo": "Saúde",
     "resumo": "Profissional dedicado à área de Saúde, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Recife/PE",
     "area": "Saúde",
@@ -2431,36 +1367,10 @@
       "Comunicação",
       "Trabalho em equipe"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 45",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Saúde."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Saúde Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 45 - Saúde",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Saúde."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Saúde"
-    ],
     "idiomas": [
       {
         "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -2472,7 +1382,7 @@
     "id": 46,
     "nome": "Profissional 46",
     "foto": "https://i.pravatar.cc/150?img=46",
-    "cargo": "Marketing Specialist",
+    "cargo": "Marketing",
     "resumo": "Profissional dedicado à área de Marketing, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Salvador/BA",
     "area": "Marketing",
@@ -2486,36 +1396,10 @@
       "Resiliência",
       "Empatia"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 46",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Marketing."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Marketing Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 46 - Marketing",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Marketing."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Marketing"
-    ],
     "idiomas": [
       {
         "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
@@ -2527,7 +1411,7 @@
     "id": 47,
     "nome": "Profissional 47",
     "foto": "https://i.pravatar.cc/150?img=47",
-    "cargo": "Administração Specialist",
+    "cargo": "Administração",
     "resumo": "Profissional dedicado à área de Administração, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Fortaleza/CE",
     "area": "Administração",
@@ -2540,35 +1424,9 @@
       "Liderança",
       "Criatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 47",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Administração."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Administração Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 47 - Administração",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Administração."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Administração"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Alemão",
         "nivel": "Intermediário"
       }
     ],
@@ -2581,7 +1439,7 @@
     "id": 48,
     "nome": "Profissional 48",
     "foto": "https://i.pravatar.cc/150?img=48",
-    "cargo": "Sustentabilidade Specialist",
+    "cargo": "Sustentabilidade",
     "resumo": "Profissional dedicado à área de Sustentabilidade, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Brasília/DF",
     "area": "Sustentabilidade",
@@ -2595,35 +1453,13 @@
       "Organização",
       "Proatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 48",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Sustentabilidade."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Sustentabilidade Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 48 - Sustentabilidade",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Sustentabilidade."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Sustentabilidade"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Japonês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Francês",
         "nivel": "Intermediário"
       }
     ],
@@ -2636,7 +1472,7 @@
     "id": 49,
     "nome": "Profissional 49",
     "foto": "https://i.pravatar.cc/150?img=49",
-    "cargo": "Tecnologia Specialist",
+    "cargo": "Tecnologia",
     "resumo": "Profissional dedicado à área de Tecnologia, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Campinas/SP",
     "area": "Tecnologia",
@@ -2650,35 +1486,9 @@
       "Pensamento Crítico",
       "Inovação"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 49",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Tecnologia."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Tecnologia Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 49 - Tecnologia",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Tecnologia."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Tecnologia"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Italiano",
         "nivel": "Intermediário"
       }
     ],
@@ -2691,7 +1501,7 @@
     "id": 50,
     "nome": "Profissional 50",
     "foto": "https://i.pravatar.cc/150?img=50",
-    "cargo": "Design Specialist",
+    "cargo": "Design",
     "resumo": "Profissional dedicado à área de Design, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "São Paulo/SP",
     "area": "Design",
@@ -2705,35 +1515,13 @@
       "Comunicação",
       "Trabalho em equipe"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 50",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Design."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Design Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 50 - Design",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Design."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Design"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Japonês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
         "nivel": "Intermediário"
       }
     ],
@@ -2746,7 +1534,7 @@
     "id": 51,
     "nome": "Profissional 51",
     "foto": "https://i.pravatar.cc/150?img=51",
-    "cargo": "Educação Specialist",
+    "cargo": "Educação",
     "resumo": "Profissional dedicado à área de Educação, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Educação",
@@ -2760,36 +1548,14 @@
       "Resiliência",
       "Empatia"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 51",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Educação."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Educação Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 51 - Educação",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Educação."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Educação"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -2801,7 +1567,7 @@
     "id": 52,
     "nome": "Profissional 52",
     "foto": "https://i.pravatar.cc/150?img=52",
-    "cargo": "Saúde Specialist",
+    "cargo": "Saúde",
     "resumo": "Profissional dedicado à área de Saúde, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Curitiba/PR",
     "area": "Saúde",
@@ -2815,35 +1581,9 @@
       "Liderança",
       "Criatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 52",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Saúde."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Saúde Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 52 - Saúde",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Saúde."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Saúde"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Francês",
         "nivel": "Intermediário"
       }
     ],
@@ -2856,7 +1596,7 @@
     "id": 53,
     "nome": "Profissional 53",
     "foto": "https://i.pravatar.cc/150?img=53",
-    "cargo": "Marketing Specialist",
+    "cargo": "Marketing",
     "resumo": "Profissional dedicado à área de Marketing, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Porto Alegre/RS",
     "area": "Marketing",
@@ -2870,36 +1610,10 @@
       "Organização",
       "Proatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 53",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Marketing."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Marketing Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 53 - Marketing",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Marketing."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Marketing"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Francês",
+        "nivel": "Básico"
       }
     ],
     "areaInteresses": [
@@ -2911,7 +1625,7 @@
     "id": 54,
     "nome": "Profissional 54",
     "foto": "https://i.pravatar.cc/150?img=54",
-    "cargo": "Administração Specialist",
+    "cargo": "Administração",
     "resumo": "Profissional dedicado à área de Administração, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Administração",
@@ -2924,36 +1638,14 @@
       "Pensamento Crítico",
       "Inovação"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 54",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Administração."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Administração Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 54 - Administração",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Administração."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Administração"
-    ],
     "idiomas": [
       {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      },
+      {
         "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "nivel": "Básico"
       }
     ],
     "areaInteresses": [
@@ -2965,7 +1657,7 @@
     "id": 55,
     "nome": "Profissional 55",
     "foto": "https://i.pravatar.cc/150?img=55",
-    "cargo": "Sustentabilidade Specialist",
+    "cargo": "Sustentabilidade",
     "resumo": "Profissional dedicado à área de Sustentabilidade, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Recife/PE",
     "area": "Sustentabilidade",
@@ -2979,35 +1671,13 @@
       "Comunicação",
       "Trabalho em equipe"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 55",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Sustentabilidade."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Sustentabilidade Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 55 - Sustentabilidade",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Sustentabilidade."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Sustentabilidade"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Italiano",
         "nivel": "Intermediário"
       }
     ],
@@ -3020,7 +1690,7 @@
     "id": 56,
     "nome": "Profissional 56",
     "foto": "https://i.pravatar.cc/150?img=56",
-    "cargo": "Tecnologia Specialist",
+    "cargo": "Tecnologia",
     "resumo": "Profissional dedicado à área de Tecnologia, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Salvador/BA",
     "area": "Tecnologia",
@@ -3034,36 +1704,10 @@
       "Resiliência",
       "Empatia"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 56",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Tecnologia."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Tecnologia Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 56 - Tecnologia",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Tecnologia."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Tecnologia"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Alemão",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -3075,7 +1719,7 @@
     "id": 57,
     "nome": "Profissional 57",
     "foto": "https://i.pravatar.cc/150?img=57",
-    "cargo": "Design Specialist",
+    "cargo": "Design",
     "resumo": "Profissional dedicado à área de Design, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Fortaleza/CE",
     "area": "Design",
@@ -3089,36 +1733,10 @@
       "Liderança",
       "Criatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 57",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Design."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Design Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 57 - Design",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Design."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Design"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Alemão",
+        "nivel": "Fluente"
       }
     ],
     "areaInteresses": [
@@ -3130,7 +1748,7 @@
     "id": 58,
     "nome": "Profissional 58",
     "foto": "https://i.pravatar.cc/150?img=58",
-    "cargo": "Educação Specialist",
+    "cargo": "Educação",
     "resumo": "Profissional dedicado à área de Educação, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Brasília/DF",
     "area": "Educação",
@@ -3144,35 +1762,9 @@
       "Organização",
       "Proatividade"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 58",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Educação."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Educação Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 58 - Educação",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Educação."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Educação"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Espanhol",
         "nivel": "Intermediário"
       }
     ],
@@ -3185,7 +1777,7 @@
     "id": 59,
     "nome": "Profissional 59",
     "foto": "https://i.pravatar.cc/150?img=59",
-    "cargo": "Saúde Specialist",
+    "cargo": "Saúde",
     "resumo": "Profissional dedicado à área de Saúde, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "Campinas/SP",
     "area": "Saúde",
@@ -3199,36 +1791,10 @@
       "Pensamento Crítico",
       "Inovação"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 59",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Saúde."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Saúde Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 59 - Saúde",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Saúde."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Saúde"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
-        "nivel": "Intermediário"
+        "idioma": "Francês",
+        "nivel": "Básico"
       }
     ],
     "areaInteresses": [
@@ -3240,7 +1806,7 @@
     "id": 60,
     "nome": "Profissional 60",
     "foto": "https://i.pravatar.cc/150?img=60",
-    "cargo": "Marketing Specialist",
+    "cargo": "Marketing",
     "resumo": "Profissional dedicado à área de Marketing, focado em inovação e desenvolvimento contínuo.",
     "localizacao": "São Paulo/SP",
     "area": "Marketing",
@@ -3254,35 +1820,13 @@
       "Comunicação",
       "Trabalho em equipe"
     ],
-    "experiencias": [
-      {
-        "empresa": "Empresa 60",
-        "cargo": "Analista",
-        "inicio": "2020-01",
-        "fim": "2024-06",
-        "descricao": "Atuação em projetos voltados para a área de Marketing."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Marketing Aplicada",
-        "instituicao": "FIAP",
-        "ano": 2023
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto 60 - Marketing",
-        "link": "https://fiap.com.br",
-        "descricao": "Solução inovadora no campo de Marketing."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional Marketing"
-    ],
     "idiomas": [
       {
-        "idioma": "Inglês",
+        "idioma": "Japonês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Italiano",
         "nivel": "Intermediário"
       }
     ],
