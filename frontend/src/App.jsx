@@ -4,6 +4,7 @@ import FeedColaborativo from "./components/FeedColaborativo";
 import Conexoes from "./components/Conexoes";
 import CardProfissional from "./components/CardProfissional";
 import ModalPerfil from "./components/ModalPerfil";
+import Footer from "./components/Footer";
 import data from "./data/profissionais.json";
 
 export default function App() {
@@ -29,7 +30,8 @@ export default function App() {
   );
 
   return (
-    <div className="min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-200 transition-all">
+    <div className="min-h-screen flex flex-col bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-200 transition-all">
+
       <Navbar
         aba={aba}
         setAba={setAba}
@@ -37,7 +39,7 @@ export default function App() {
         setDarkMode={setDarkMode}
       />
 
-      <main className="p-6">
+      <main className="flex-grow p-6">
         {aba === "home" && (
           <section>
             <h2 className="text-3xl font-bold text-center text-blue-700 dark:text-blue-400 mb-6">
@@ -85,6 +87,8 @@ export default function App() {
           onClose={() => setSelecionado(null)}
         />
       )}
+
+      <Footer />
     </div>
   );
 }

@@ -5,8 +5,8 @@ export function gerarTrilhasAprendizado(profissional) {
     "Tecnologia": {
       requeridas: ["Python", "Machine Learning", "Cloud", "APIs", "DevOps"],
       cursos: [
-        "Introdução ao Machine Learning (Coursera)",
-        "Arquitetura em Cloud AWS (FIAP ON)",
+        "Introdução ao Machine Learning",
+        "Arquitetura em Cloud AWS",
         "APIs REST com Node.js e Express",
         "Pipelines de DevOps com GitHub Actions"
       ]
@@ -14,8 +14,8 @@ export function gerarTrilhasAprendizado(profissional) {
     "Design": {
       requeridas: ["UX Research", "UI Design", "Prototipagem", "Design Thinking"],
       cursos: [
-        "UX Research na Prática (Alura)",
-        "Design Thinking Avançado (FIAP)",
+        "UX Research na Prática",
+        "Design Thinking Avançado",
         "Prototipagem com Figma",
         "Interface Responsiva com Tailwind"
       ]
@@ -24,16 +24,16 @@ export function gerarTrilhasAprendizado(profissional) {
       requeridas: ["Data Analytics", "SEO", "Copywriting", "Growth Hacking"],
       cursos: [
         "Google Analytics for Business",
-        "SEO e Marketing de Conteúdo (Rock Content)",
-        "Copywriting Estratégico (Udemy)",
+        "SEO e Marketing de Conteúdo",
+        "Copywriting Estratégico",
         "Growth Hacking com Dados"
       ]
     },
     "Educação": {
       requeridas: ["Metodologias Ativas", "Gamificação", "IA na Educação"],
       cursos: [
-        "Metodologias Ativas de Aprendizagem (Coursera)",
-        "Gamificação no Ensino (FIAP ON)",
+        "Metodologias Ativas de Aprendizagem",
+        "Gamificação no Ensino",
         "ChatGPT e IA em Ambientes Educacionais"
       ]
     },
@@ -41,7 +41,7 @@ export function gerarTrilhasAprendizado(profissional) {
       requeridas: ["Power BI", "Gestão de Projetos", "Finanças", "Análise de Dados"],
       cursos: [
         "Excel e Power BI para Gestores",
-        "Gestão de Projetos Ágeis com Scrum (FIAP)",
+        "Gestão de Projetos Ágeis com Scrum",
         "Planejamento Financeiro e Estratégico"
       ]
     },
@@ -49,8 +49,24 @@ export function gerarTrilhasAprendizado(profissional) {
       requeridas: ["Telemedicina", "Prontuário Digital", "Gestão Hospitalar"],
       cursos: [
         "Telemedicina e Novas Tecnologias na Saúde",
-        "Gestão de Prontuários Eletrônicos (SUS Digital)",
+        "Gestão de Prontuários Eletrônicos",
         "Inovação Hospitalar e IoT"
+      ]
+    },
+    "Sustentabilidade": {
+      requeridas: [
+        "Análise Ambiental",
+        "ESG",
+        "Economia Circular",
+        "Gestão de Resíduos",
+        "Relatórios de Sustentabilidade"
+      ],
+      cursos: [
+        "ESG na Prática – Environmental, Social & Governance",
+        "Gestão Ambiental e Relatórios de Sustentabilidade",
+        "Economia Circular e Negócios Sustentáveis",
+        "Introdução à Sustentabilidade Corporativa",
+        "Análise de Impacto Ambiental e Riscos Climáticos"
       ]
     }
   };
@@ -73,7 +89,7 @@ export function gerarTrilhasAprendizado(profissional) {
   } else {
     trilhas.push({
       tipo: "Perfil completo 🎯",
-      descricao: `Seu perfil em ${area} está muito bem desenvolvido! Continue aprimorando com essas trilhas recomendadas:`,
+      descricao: `Este perfil em ${area} está muito bem desenvolvido! Continue aprimorando com essas trilhas recomendadas:`,
       recomendacoes: base.cursos.slice(0, 2)
     });
   }

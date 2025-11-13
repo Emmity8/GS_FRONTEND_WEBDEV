@@ -6,6 +6,7 @@ export default function ModalPerfil({ profissional, onClose }) {
   return (
     <div className="fixed inset-0 bg-black/60 flex justify-center items-center z-50">
       <div className="bg-white dark:bg-gray-800 rounded-xl shadow-xl p-6 max-w-lg w-full relative overflow-y-auto max-h-[90vh]">
+        
         <button
           onClick={onClose}
           className="absolute top-3 right-3 text-gray-400 hover:text-red-500"
@@ -25,6 +26,7 @@ export default function ModalPerfil({ profissional, onClose }) {
           <p className="text-sm text-gray-500 dark:text-gray-400">
             {profissional.cargo}
           </p>
+
           {profissional.localizacao && (
             <p className="text-xs text-gray-400 dark:text-gray-500">
               {profissional.localizacao}
@@ -78,6 +80,43 @@ export default function ModalPerfil({ profissional, onClose }) {
             </ul>
           </section>
         )}
+
+        {profissional.idiomas?.length > 0 && (
+          <section className="mb-5">
+            <h3 className="font-semibold text-lg text-purple-700 dark:text-purple-400">
+              Idiomas
+            </h3>
+            <ul className="flex flex-col gap-1 mt-2">
+              {profissional.idiomas.map((i, idx) => (
+                <li
+                  key={idx}
+                  className="bg-purple-100 dark:bg-purple-900/40 px-3 py-1 rounded-lg text-xs text-purple-800 dark:text-purple-300"
+                >
+                  {i.idioma} — {i.nivel}
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {profissional.areainteresses?.length > 0 && (
+          <section className="mb-5">
+            <h3 className="font-semibold text-lg text-pink-700 dark:text-pink-400">
+              Áreas de Interesse
+            </h3>
+            <ul className="flex flex-wrap gap-2 mt-2">
+              {profissional.areainteresses.map((i, idx) => (
+                <li
+                  key={idx}
+                  className="bg-pink-100 dark:bg-pink-900/40 px-3 py-1 rounded-full text-xs text-pink-800 dark:text-pink-300"
+                >
+                  {i}
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
 
         <section className="space-y-3">
           <h3 className="font-semibold text-lg text-blue-700 dark:text-blue-400">

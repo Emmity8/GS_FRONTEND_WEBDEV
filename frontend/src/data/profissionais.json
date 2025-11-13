@@ -193,11 +193,12 @@
     "localizacao": "Fortaleza/CE",
     "area": "Tecnologia",
     "habilidadesTecnicas": [
-      "JavaScript",
-      "React",
-      "Node.js",
-      "SQL"
-    ],
+    "Python",
+    "Machine Learning",
+    "Cloud",
+    "APIs",
+    "DevOps"
+  ],
     "softSkills": [
       "Liderança",
       "Criatividade"
