@@ -35,7 +35,7 @@ export default function ModalPerfil({ profissional, onClose }) {
         {profissional.resumo && (
           <section className="mb-5">
             <h3 className="font-semibold text-lg text-blue-700 dark:text-blue-400">
-              🧭 Sobre
+              Sobre
             </h3>
             <p className="text-sm text-gray-700 dark:text-gray-300 mt-1">
               {profissional.resumo}
@@ -46,7 +46,7 @@ export default function ModalPerfil({ profissional, onClose }) {
         {profissional.habilidadesTecnicas?.length > 0 && (
           <section className="mb-5">
             <h3 className="font-semibold text-lg text-blue-700 dark:text-blue-400">
-              ⚙️ Habilidades Técnicas
+              Habilidades Técnicas
             </h3>
             <ul className="flex flex-wrap gap-2 mt-2">
               {profissional.habilidadesTecnicas.map((h, i) => (
@@ -64,7 +64,7 @@ export default function ModalPerfil({ profissional, onClose }) {
         {profissional.softSkills?.length > 0 && (
           <section className="mb-5">
             <h3 className="font-semibold text-lg text-green-700 dark:text-green-400">
-              ✅ Soft Skills
+              Soft Skills
             </h3>
             <ul className="flex flex-wrap gap-2 mt-2">
               {profissional.softSkills.map((s, i) => (
