@@ -140,13 +140,73 @@ export default function ModalPerfil({ profissional, onClose }) {
           ))}
         </section>
 
-        <div className="flex justify-end gap-3 mt-6">
-          <button className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700">
-            Recomendar
-          </button>
-          <button className="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700">
-            Enviar mensagem
-          </button>
+        <div className="flex flex-col gap-3 mt-6">
+          <div className="mb-4">
+            <h4 className="font-semibold text-blue-700 dark:text-blue-400 mb-2">
+              Deixe uma recomendação
+            </h4>
+            <textarea 
+              placeholder="Escreva sua recomendação para este profissional..."
+              className="w-full p-3 border border-gray-300 dark:border-gray-600 rounded-lg resize-none focus:outline-none focus:ring-2 focus:ring-blue-500 dark:bg-gray-700 dark:text-white"
+              rows="3"
+              id="recomendacao-text"
+            />
+            <div id="recomendacao-error" className="text-red-500 text-sm mt-1 hidden">
+              Por favor, escreva uma recomendação antes de enviar.
+            </div>
+            <button 
+              onClick={() => {
+                const texto = document.getElementById('recomendacao-text').value;
+                const errorElement = document.getElementById('recomendacao-error');
+                
+                if (!texto.trim()) {
+                  errorElement.classList.remove('hidden');
+                  return;
+                }
+                
+                errorElement.classList.add('hidden');
+                alert(`Recomendação enviada para ${profissional.nome}!`);
+                document.getElementById('recomendacao-text').value = '';
+              }}
+              className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200 font-medium mt-2"
+            >
+              Enviar recomendação
+            </button>
+          </div>
+
+          <div className="mb-4">
+            <h4 className="font-semibold text-green-700 dark:text-green-400 mb-2">
+              Enviar mensagem
+            </h4>
+            <textarea 
+              placeholder="Digite sua mensagem..."
+              className="w-full p-3 border border-gray-300 dark:border-gray-600 rounded-lg resize-none focus:outline-none focus:ring-2 focus:ring-green-500 dark:bg-gray-700 dark:text-white"
+              rows="3"
+              id="mensagem-text"
+            />
+
+            <div id="mensagem-error" className="text-red-500 text-sm mt-1 hidden">
+              Por favor, escreva uma mensagem antes de enviar.
+            </div>
+            <button 
+              onClick={() => {
+                const texto = document.getElementById('mensagem-text').value;
+                const errorElement = document.getElementById('mensagem-error');
+                
+                if (!texto.trim()) {
+                  errorElement.classList.remove('hidden');
+                  return;
+                }
+                
+                errorElement.classList.add('hidden');
+                alert(`Mensagem enviada para ${profissional.nome}!`);
+                document.getElementById('mensagem-text').value = '';
+              }}
+              className="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition-colors duration-200 font-medium mt-2"
+            >
+              Enviar mensagem
+            </button>
+          </div>
         </div>
       </div>
     </div>
